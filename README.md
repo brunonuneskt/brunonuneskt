@@ -22,6 +22,6 @@ Estou em transição para a área de Tecnologia e busco evoluir constantemente, 
 
 📧 E-mail: bruno.nuneskt@gmail.com
 
-🐙 GitHub: https://github.com/SEU_USUARIO
+🐙 GitHub: https://github.com/brunonuneskt
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução.
