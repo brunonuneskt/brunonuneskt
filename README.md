@@ -20,12 +20,6 @@ Estou em transição para a área de Tecnologia e busco evoluir constantemente, 
 
 🎯 Em busca da primeira oportunidade na área de Tecnologia
 
-💡 Um pouco da minha trajetória
-
-Minha carreira começou no atendimento ao público, passando pela área farmacêutica e gastronomia, experiências que fortaleceram minhas habilidades de comunicação, trabalho em equipe e resolução de problemas.
-
-Hoje atuo como Agente de Registro e direciono meus estudos para a área de Tecnologia, buscando aplicar na prática tudo o que aprendo durante a graduação e em projetos pessoais.
-
 📫 Contato
 
 💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
