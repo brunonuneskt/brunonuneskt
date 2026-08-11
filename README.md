@@ -1,16 +1,37 @@
-## Hi there 👋
+#👋 Olá! Eu sou o Bruno Nunes
 
-<!--
-**brunonuneskt/brunonuneskt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na Universidade Cruzeiro do Sul.
 
-Here are some ideas to get you started:
+💼 Atualmente trabalho como Agente de Registro, atuando diretamente com atendimento ao público, validação documental e suporte aos clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Também sou formado como Técnico em Design Gráfico, o que me proporcionou uma boa base em criatividade, comunicação visual e resolução de problemas.
+
+Estou em transição para a área de Tecnologia e busco evoluir constantemente, desenvolvendo projetos que fortaleçam meu conhecimento e minha experiência prática.
+
+🚀 Sobre mim
+
+📚 Cursando Sistemas de Informação
+
+💻 Apaixonado por tecnologia e desenvolvimento de software
+
+🗄️ Interessado em Banco de Dados, Back-end e Análise de Dados
+
+🌱 Atualmente estudando SQL, Java, Python e Git
+
+🎯 Em busca da primeira oportunidade na área de Tecnologia
+
+💡 Um pouco da minha trajetória
+
+Minha carreira começou no atendimento ao público, passando pela área farmacêutica e gastronomia, experiências que fortaleceram minhas habilidades de comunicação, trabalho em equipe e resolução de problemas.
+
+Hoje atuo como Agente de Registro e direciono meus estudos para a área de Tecnologia, buscando aplicar na prática tudo o que aprendo durante a graduação e em projetos pessoais.
+
+📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
+
+📧 E-mail: bruno.nuneskt@gmail.com
+
+🐙 GitHub: https://github.com/SEU_USUARIO
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução.
