@@ -24,4 +24,4 @@ Estou em transição para a área de Tecnologia e busco evoluir constantemente, 
 
 🐙 GitHub: https://github.com/brunonuneskt
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução.
+🚀 Este GitHub reúne os projetos e estudos que desenvolvo ao longo da minha jornada na área de tecnologia.
