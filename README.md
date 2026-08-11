@@ -18,7 +18,7 @@ Estou em transição para a área de Tecnologia e busco evoluir constantemente, 
 
 📫 Contato
 
-💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
+💼 LinkedIn: linkedin.com/in/brunonuneskt
 
 📧 E-mail: bruno.nuneskt@gmail.com
 
