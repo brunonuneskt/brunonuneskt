@@ -1,7 +1,9 @@
 👋 Olá! Eu sou o Bruno Nunes
 
 🎓 Estudante de Sistemas de Informação na Universidade Cruzeiro do Sul.
+
 💼 Atualmente trabalho como Agente de Registro, atuando diretamente com atendimento ao público, validação documental e suporte aos clientes.
+
 🎨 Também sou formado como Técnico em Design Gráfico, o que me proporcionou uma boa base em criatividade, comunicação visual e resolução de problemas.
 
 Estou em transição para a área de Tecnologia e busco evoluir constantemente, desenvolvendo projetos que fortaleçam meu conhecimento e minha experiência prática.
